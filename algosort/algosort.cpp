@@ -7,5 +7,4 @@ void intsertionsort() {
 
     for (i = 1; i <= - 1; i++) { //step 1
         temp = arr[20]; //step 2
-
-      
+        j = i - 1; //step 3
